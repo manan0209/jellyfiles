@@ -15,13 +15,13 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           />
 
           <div className="space-y-5 text-white">
-            <h1 className="h1">Manage your files the best way</h1>
+            <h1 className="h1">Eat Jelly and upload files.</h1>
             <p className="body-1">
-              This is a place where you can store all your documents.
+              Deploy your jelly files and share them with your friends.
             </p>
           </div>
           <Image
-            src="/assets/images/files.png"
+            src="/assets/images/files.svg"
             alt="Files"
             width={342}
             height={342}

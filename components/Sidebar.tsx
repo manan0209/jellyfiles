@@ -63,7 +63,7 @@ const Sidebar = ({ fullName, avatar, email }: Props) => {
       </nav>
 
       <Image
-        src="/assets/images/files-2.png"
+        src="/assets/images/files-3.svg"
         alt="logo"
         width={506}
         height={418}

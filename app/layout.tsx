@@ -10,8 +10,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "StoreIt",
-  description: "StoreIt - The only storage solution you need.",
+  title: "Jellyfiles",
+  description: "Jellyfiles - Eat Jelly and upload files.",
 };
 
 export default function RootLayout({
