@@ -1,4 +1,4 @@
-# Jellyfiles Project
+# Jellyfiles
 
 ## Description
 Jellyfiles is a project designed to manage and organize your files efficiently. It provides a user-friendly interface and powerful features to help you keep your files in order.
